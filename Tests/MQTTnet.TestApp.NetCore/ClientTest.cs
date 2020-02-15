@@ -24,7 +24,7 @@ namespace MQTTnet.TestApp.NetCore
                 {
                     ChannelOptions = new MqttClientTcpOptions
                     {
-                        Server = "127.0.0.1"
+                        Server = "172.104.35.200"
                     }
                 };
 
